@@ -1,2 +1,2 @@
 My first readme
-i am a winner
+i am a awesome
