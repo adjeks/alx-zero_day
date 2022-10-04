@@ -1,2 +1,2 @@
 My first readme
-i am a awesome
+I am Awesome
